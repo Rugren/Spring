@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>Mensajes</h2>
+<p th:text="${usuario.nombre}"></p>
+<table>
+    <tr th:each="publicacion:${listaPublicaciones}">
+        <td th:text="${publicacion.id}"></td>
+        <td th:text="${publicacion.mensaje}"></td>
+        <!--<td> <img th:src=${publicacion.imagen}"> </td>-->
+    </tr>
+</table>
+
+</body>
+</html>

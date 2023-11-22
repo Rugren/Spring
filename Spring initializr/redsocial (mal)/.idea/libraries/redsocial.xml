@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="redsocial">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/redsocial.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
