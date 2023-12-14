@@ -1,0 +1,26 @@
+
+kotlin-api-skeleton-main (Editado por mi Rubén)
+
+
+Aprende Spring Boot en 5 minutos
+https://www.youtube.com/watch?v=3vN2R00YUq4
+
+
+Para verlo en la web (activar el xampp)
++++ Y activarlo (Darle a run en archivo: Application.kt) SINO NO VA EN EL NAVEGADOR WEB
+
+http://localhost:8080/
+http://localhost:8080/health-check
+
+
+Creado un nuevo controlador:
+HolaController (verlo en en IntelliJ)
+
+Aquí se ve en el navegador
+http://localhost:8080/hola
+Tiene que salir en el navegador: Hola!!! Editado por Rubén
+
+
+
+
+
