@@ -1,0 +1,41 @@
+Para crear Spring Boot initializr:
+
+
+1.0º Spring initializr project.png	Este sería el ejemplo con demo
+1.1º Spring initializr project.png	Aquí tendríamos que poner nombre a nuestro proyecto 
+					 Poniendo en Artifact: hola - En Name y Package name se pondría automático ya.
+
+Añadir las dependecias a nuestro proyecto: (abrir xampp siempre al ejecutar luego el programa, sino no va)
+2º Spring initializr add dependencies (abrir xampp).png
+
+DESCARGAR PARA NUESTRO PROYECTO SIEMPRE LAS SIGUIENTES: (las mismas que las de la imagen 2º)
+	Son 5:
+Spring Web
+Spring Data JPA
+Thymeleaf
+MySQL Driver
+Lombok
+
+
+3º damos a "GENERATE" y nos guarda un archivo comprimido con el proyecto ya realizado nuevo.
+
+Nosotros hemos creado un proyecto llamado: pruebaCasa (al descomprimirlo crea una carpeta llamada pruebaCasa dentro de otra llamada igual: pruebaCasa, NO COGER LA DE DENTRO PARA QUE HAYA SOLO UNA CARPETA del proyecto)
+COGER LA CARPETA PRINCIPAL, porque luego creará una automática al abrir el proyecto, que será .idea + la otra pruebaCasa.
+
+
+La ruta para GUARDAR todos los proyectos O ABRIR proyectos de manera rápida:
+C:\Users\rubga\OneDrive\Documentos
+C:\Users\rubga\OneDrive\Documentos\Spring\Spring initializr
+C:\Users\rubga\OneDrive\Documentos\Spring\Spring initializr\pruebaCasa
+
+Y aquí es la carpeta de descargas: C:\Users\rubga\Downloads
+
+
+4º Abrir y seguir en archivo: 0.2 Para crear Spring Boot initializr (archivos)1.txt 
+y 0.2 Para crear Spring Boot initializr (archivos)2.odt
+
+
+
+
+
+

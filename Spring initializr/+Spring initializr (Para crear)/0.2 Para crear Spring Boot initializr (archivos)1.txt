@@ -1,0 +1,34 @@
+
+
+Ver en carpeta: redsocial (en proceso) en Capturas pantalla redsocial el paso por paso de cosas editadas también
+C:\Users\rubga\OneDrive\Documentos\Spring\Spring initializr\redsocial (en proceso)\Capturas pantalla redsocial
+
+
+
+
+/// *cambiarlo por el proyecto nuevo que haga
+Para verlo en la web (activar el xampp)
++++ Y activarlo (Darle a run en archivo: Application.kt) SINO NO VA EN EL NAVEGADOR WEB
+
+http://localhost:8080/
+http://localhost:8080/health-check
+
+
+Creado un nuevo controlador:
+HolaController (verlo en en IntelliJ)
+
+Aquí se ve en el navegador
+http://localhost:8080/hola
+Tiene que salir en el navegador: Hola!!! Editado por Rubén
+///
+
+
+---
+Ver también archivo: 
+kotlin-api-skeleton-main-Editado-Rubén.txt 
+El proyecto está hecho en kotlin, no en Java.
+
+
+
+
+
